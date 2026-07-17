@@ -17,11 +17,12 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, Java, JavaScript  
-- **Frameworks:**  FastAPI, Next.js 
-- **Databases:** MongoDB, Firebase  
-- **Tools:** Git, GitHub, VSCode, Postman, Canva  
-- **Others:** PyPDF2, OpenAI API, LangChain, Ollama
+-**Languages**: Python, JavaScript, SQL, HTML, CSS
+-**Frontend**: React JS, Tailwind CSS
+-**Backend**: Node.js, Express.js, RestAPI
+-**Databases**: MongoDB, SQL
+-**AI Tools & Frameworks**: Ollama, PyTorch, GitHub Copilot, Gemini API
+-**Cloud & DevOps**: Git, GitHub
 
 ---
 
